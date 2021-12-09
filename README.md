@@ -1,2 +1,8 @@
-# DevSpaceMusicBot
-DevSpace discord bot to stream music
+# DurkaMusicBot
+Durka discord bot to stream music
+
+#Commands:
+?play
+?queue
+?skip
+?stop

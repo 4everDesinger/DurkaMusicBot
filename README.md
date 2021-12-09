@@ -1,7 +1,7 @@
 # DurkaMusicBot
 Durka discord bot to stream music
 
-#Commands:
+# Commands:
 ?play
 ?queue
 ?skip
